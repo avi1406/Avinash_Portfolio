@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Avinash_Portfolio/static/css/main.cc2f0194.css",
+    "main.js": "/Avinash_Portfolio/static/js/main.749e253f.js",
+    "static/media/netflix_cover.png": "/Avinash_Portfolio/static/media/netflix_cover.f2c5fa22dad2617d4477.png",
+    "static/media/image4.png": "/Avinash_Portfolio/static/media/image4.6069ba65b442ddae43c2.png",
+    "static/media/my-photo-port.jpeg": "/Avinash_Portfolio/static/media/my-photo-port.662e768fc9fd42b29833.jpeg",
+    "static/media/image2.png": "/Avinash_Portfolio/static/media/image2.ba076c603cb04ce99176.png",
+    "static/media/image3.png": "/Avinash_Portfolio/static/media/image3.a8ce23649797972793ef.png",
+    "static/media/image5.png": "/Avinash_Portfolio/static/media/image5.30db8dec8da20be27b0d.png",
+    "static/media/netflix1.png": "/Avinash_Portfolio/static/media/netflix1.87b9c6884f8ba6dd8427.png",
+    "static/media/image1.png": "/Avinash_Portfolio/static/media/image1.c2957ed8220d2b6ee936.png",
+    "static/media/image6.png": "/Avinash_Portfolio/static/media/image6.bc9b1e0410ad81df60d1.png",
+    "index.html": "/Avinash_Portfolio/index.html",
+    "main.cc2f0194.css.map": "/Avinash_Portfolio/static/css/main.cc2f0194.css.map",
+    "main.749e253f.js.map": "/Avinash_Portfolio/static/js/main.749e253f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc2f0194.css",
+    "static/js/main.749e253f.js"
+  ]
+}
