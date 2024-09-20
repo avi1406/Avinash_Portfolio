@@ -1,10 +1,10 @@
 # some basic info of the app
 
-![portfolio-website](https://github.com/user-attachments/assets/09f675f2-5c82-4a21-90f6-17daf5bc6556)
+![portfolio-website](https://raw.githubusercontent.com/avi1406/Assets/refs/heads/main/portfolio_cover.png)
 
 
 
-live website -   https://master--nikhilchourase.netlify.app/
+live website -  https://avi1406.github.io/Avinash_Portfolio/
 ## Available Scripts
 
 In the project directory, you can run:
